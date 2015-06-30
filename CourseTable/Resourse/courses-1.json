@@ -1,0 +1,145 @@
+{
+    "status": "200",
+    "data": [
+             {
+             "weekDay": "monday",
+             "data": [
+                      {
+                      "lessons": "3",
+                      "courseCode": "100067",
+                      "courseName": "大学外语",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "7",
+                      "courseCode": "100068",
+                      "courseName": "高等数学",
+                      "teacherName": "李江",
+                      "claRoom": "1301",
+                      "lessonsNum": "1",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             },
+             {
+             "weekDay": "tuesday",
+             "data": [
+                      {
+                      "lessons": "1",
+                      "courseCode": "100067",
+                      "courseName": "大学外语",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "5",
+                      "courseCode": "100068",
+                      "courseName": "高等数学",
+                      "teacherName": "李江",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             },
+             {
+             "weekDay": "wednesday",
+             "data": [
+                      {
+                      "lessons": "3",
+                      "courseCode": "100067",
+                      "courseName": "大学外语",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "5",
+                      "courseCode": "100068",
+                      "courseName": "道德与法",
+                      "teacherName": "李江",
+                      "claRoom": "1301",
+                      "lessonsNum": "3",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             },
+             {
+             "weekDay": "thursday",
+             "data": [
+                      {
+                      "lessons": "1",
+                      "courseCode": "100067",
+                      "courseName": "大学体育1",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "7",
+                      "courseCode": "100068",
+                      "courseName": "线性代数",
+                      "teacherName": "李斯",
+                      "claRoom": "1301",
+                      "lessonsNum": "3",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             },
+             {
+             "weekDay": "thursday",
+             "data": [
+                      {
+                      "lessons": "1",
+                      "courseCode": "100067",
+                      "courseName": "大学体育1",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "7",
+                      "courseCode": "100068",
+                      "courseName": "线性代数",
+                      "teacherName": "李斯",
+                      "claRoom": "1301",
+                      "lessonsNum": "3",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             },
+             {
+             "weekDay": "friday",
+             "data": [
+                      {
+                      "lessons": "1",
+                      "courseCode": "100067",
+                      "courseName": "大学体育1",
+                      "teacherName": "韩丽",
+                      "claRoom": "1301",
+                      "lessonsNum": "2",
+                      "seWeek": "1-14"
+                      },
+                      {
+                      "lessons": "9",
+                      "courseCode": "100068",
+                      "courseName": "线性代数",
+                      "teacherName": "李斯",
+                      "claRoom": "1301",
+                      "lessonsNum": "4",
+                      "seWeek": "1-14"
+                      }
+                      ]
+             }             
+             ]
+}
+
+
